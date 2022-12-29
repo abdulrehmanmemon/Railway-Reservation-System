@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1671300449 source:f:\sem_3_dsa\sem_3_finalproject\src\login.cpp
+	"login.h"
+	<iostream>
+
+1671300469 f:\sem_3_dsa\sem_3_finalproject\include\login.h
+	<iostream>
+
+1671300449 source:f:\sem_3_dsa\sem_3_finalproject\src\t_detail.cpp
+	"T_Detail.h"
+	<iostream>
+
+1671300481 f:\sem_3_dsa\sem_3_finalproject\include\t_detail.h
+	<iostream>
+
+1672311390 source:f:\sem_3_dsa\sem_3_finalproject\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<sstream>
+	"T_Detail.h"
+	"login.h"
+	"reser.h"
+
+1671300511 f:\sem_3_dsa\sem_3_finalproject\include\reser.h
+	<iostream>
+	<T_Detail.h>
+	<login.h>
+
+1671300562 source:f:\sem_3_dsa\sem_3_finalproject\src\reser.cpp
+	"reser.h"
+	<iostream>
+
+1672321147 source:e:\assignment\semester 3\dsa project\sem_3_finalproject\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<sstream>
+	"T_Detail.h"
+	"login.h"
+	"reser.h"
+
+1671300481 e:\assignment\semester 3\dsa project\sem_3_finalproject\include\t_detail.h
+	<iostream>
+
+1671300469 e:\assignment\semester 3\dsa project\sem_3_finalproject\include\login.h
+	<iostream>
+
+1671300511 e:\assignment\semester 3\dsa project\sem_3_finalproject\include\reser.h
+	<iostream>
+	<T_Detail.h>
+	<login.h>
+
+1671300449 source:e:\assignment\semester 3\dsa project\sem_3_finalproject\src\login.cpp
+	"login.h"
+	<iostream>
+
+1671300562 source:e:\assignment\semester 3\dsa project\sem_3_finalproject\src\reser.cpp
+	"reser.h"
+	<iostream>
+
+1671300449 source:e:\assignment\semester 3\dsa project\sem_3_finalproject\src\t_detail.cpp
+	"T_Detail.h"
+	<iostream>
+
